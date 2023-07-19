@@ -110,14 +110,14 @@ body {
     text-decoration: none;
     /* background-color: var(--cor-tertiary); */
     width: 60%;
-    padding: 21.5px 21.5px;
+    padding: 21.5px 0;
     border-radius: 8px;
     border: 2px solid var(--cor-tertiary);
 }
 
 .logo {
     width: 50%;
-    padding: 0 21.5px;
+    
 }
 
 .apresentacao__links__navegacao:hover {
